@@ -1,1 +1,1 @@
-Code to estimate Fahrenheit from Celsius using a single-node neural network using a simple machine learning method.
+Basit bir makine öğrenmesi yöntemiyle tek node lu bir sinir ağı kullanarak Celsius dan fahrenheit tahmini yapan kod.
